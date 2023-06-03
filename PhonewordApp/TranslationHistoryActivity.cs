@@ -4,7 +4,7 @@ using Android.Widget;
 
 namespace PhonewordApp
 {
-    [Activity(Label = "@string/translationHistory")]            
+    [Activity(Label = "TranslationHistory")]            
     public class TranslationHistoryActivity : ListActivity
     {
         protected override void OnCreate(Bundle bundle)

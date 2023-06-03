@@ -6,15 +6,14 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PhonewordApp")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PhonewordApp")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-[assembly: ComVisible(false)]
+[assembly: AssemblyTitle ("Phoneword")]
+[assembly: AssemblyDescription ("")]
+[assembly: AssemblyConfiguration ("")]
+[assembly: AssemblyCompany ("")]
+[assembly: AssemblyProduct ("")]
+[assembly: AssemblyCopyright ("mgm")]
+[assembly: AssemblyTrademark ("")]
+[assembly: AssemblyCulture ("")]
 
 // Version information for an assembly consists of the following four values:
 //
